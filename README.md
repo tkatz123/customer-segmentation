@@ -1,4 +1,4 @@
-# customer-segmentation
+# Customer Segmenation Using K-Means Clustering via PySpark
 
 This repository contains a revised and modular version of my final project for IST 418: Big Data Analytics at Syracuse University. Originally implemented as a single notebook, the codebase has now been refactored into multiple notebooks for improved readability and modularity.
 
